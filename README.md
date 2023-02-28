@@ -4,7 +4,7 @@
 <p>Login as user - You can see the details of the user </p>
 <p>Login as admin - You can see all user as well as you can edit and detaile the user data</p>
 <h3>Features </h3>
--Login
+>-Login
 -Signup
 -Log out
 -Navbar
