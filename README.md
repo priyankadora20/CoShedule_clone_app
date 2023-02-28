@@ -1,10 +1,10 @@
 <h1>Esmagico_Assignment</h1>
+<br/>
 <p>It is a full stack website</p>
-<p>In this website you can login and signup data get saved in database a user can login as user and admin .</p>
-<p>Login as user - You can see the details of the user </p>
-<p>Login as admin - You can see all user as well as you can edit and detaile the user data</p>
+<p>In this website you can login and signup data get saved in database a user can login as user and admin .
+Login as User - You can see the details of the user, Login as Admin - You can see all user as well as you can edit and detaile the user data</p>
 
-<h3>Features </h3>
+<h3>Features :</h3>
 <br/>
 
 <ul>
@@ -14,7 +14,7 @@
    <li>User Page</li>
 </ul>
 
-<h3>Tech Stack used:</h3>
+<h3>Tech Stack Used :</h3>
 <br/>
 
 <ul>
@@ -26,7 +26,7 @@
   <li>Mongo DB</li>   
 </ul>
 
-<h3>Steps:</h3>
+<h3>Steps :</h3>
 <br/>
 
 <ul>
