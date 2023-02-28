@@ -1,6 +1,6 @@
 <h1>Esmagico_Assignment</h1>
 <br/>
-<br/>
+
 <p>It is a full stack website</p>
 <p>In this website you can login and signup data get saved in database a user can login as user and admin .
 Login as User - You can see the details of the user, Login as Admin - You can see all user as well as you can edit and detaile the user data</p>
@@ -28,6 +28,7 @@ Login as User - You can see the details of the user, Login as Admin - You can se
 </ul>
 
 <h3>Steps :</h3>
+--
 <br/>
 
 <ul>
